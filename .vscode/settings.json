@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "next java aulas/src",
+        "NExT-2022.1-U/aula9/src",
+        "NExT-2022.1-U/aula1/src",
+        "DioJava\\DioJava\\src"
+    ],
+    "java.configuration.runtimes": [
+    
+    ]
+}
